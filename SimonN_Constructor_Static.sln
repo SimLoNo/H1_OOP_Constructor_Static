@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimonN_Constructor_Static", "SimonN_Constructor_Static.csproj", "{6026D998-BEE0-44DD-98FE-625C60401178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6026D998-BEE0-44DD-98FE-625C60401178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6026D998-BEE0-44DD-98FE-625C60401178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6026D998-BEE0-44DD-98FE-625C60401178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6026D998-BEE0-44DD-98FE-625C60401178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E49F4ED-2E56-42A9-9DD7-230A8D8F6AD7}
+	EndGlobalSection
+EndGlobal
